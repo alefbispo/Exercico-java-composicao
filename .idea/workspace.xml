@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b5dd89-a1da-4c97-9a5c-fb04b3231c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aplication/entites/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aplication/entites/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aplication/entites/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aplication/entites/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entites_enum/OrderStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplication/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplication/entites/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplication/entites/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplication/entites/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplication/entites/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplication/entites/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplication/entites/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
